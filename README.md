@@ -22,9 +22,9 @@ A complete web-based platform developed using **PHP, MySQL, HTML, CSS, and JavaS
 
 ## 🛠️ Technologies Used
 
-Frontend: * HTML5
-          * CSS3
-          * JavaScript
+Frontend:  HTML5
+           CSS3
+           JavaScript
 
 Backend: * PHP (WAMP Server)
 
