@@ -5,18 +5,6 @@ A complete web-based platform developed using **PHP, MySQL, HTML, CSS, and JavaS
 
 ---
 
-## 📌 Table of Contents
-
-* [🚀 Features](#-features)
-* [🛠️ Technologies Used](#️-technologies-used)
-* [🗃️ Database Setup](#️-database-setup)
-* [👤 User Roles](#-user-roles)
-* [📂 Core Modules](#-core-modules)
-* [🔐 Security Features](#-security-features)
-* [📅 Project Timeline](#-project-timeline)
-* [🖥️ System Requirements](#️-system-requirements)
-
----
 
 ## 🚀 Features
 
@@ -34,38 +22,27 @@ A complete web-based platform developed using **PHP, MySQL, HTML, CSS, and JavaS
 
 ## 🛠️ Technologies Used
 
-**Frontend**:
+Frontend: * HTML5
+          * CSS3
+          * JavaScript
 
-* HTML5
-* CSS3
-* JavaScript
+Backend: * PHP (WAMP Server)
 
-**Backend**:
+Database: * MySQL Server 8.4
 
-* PHP (WAMP Server)
+Tools:  * Visual Studio Code
 
-**Database**:
-
-* MySQL Server 8.4
-
-**Tools**:
-
-* Visual Studio Code
-
-**Others**:
-
-* Apache Server
-* AJAX for dynamic dropdowns
 
 ---
 
 ## 🗃️ Database Setup
 
 1. Open **phpMyAdmin** or your preferred MySQL client.
-2. Create a new database, e.g., `fueldelivery`.
+2. Create a new database, e.g., `fdondmsdb`.
 3. Import the provided SQL file:
 
    * Go to the **Import** tab.
-   * Select the `fuel.sql` file.
+   * Select the `fdondmsdb.sql` file.
    * Click **Go** to import.
+
 
