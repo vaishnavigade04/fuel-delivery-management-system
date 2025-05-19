@@ -20,20 +20,32 @@ A complete web-based platform developed using **PHP, MySQL, HTML, CSS, and JavaS
 
 ---
 
-## 🛠️ Technologies Used
-
-Frontend:  HTML5
-           CSS3
-           JavaScript
-
-Backend: * PHP (WAMP Server)
-
-Database: * MySQL Server 8.4
-
-Tools:  * Visual Studio Code
-
+Here’s a properly arranged and formatted version of your “Technologies Used” section:
 
 ---
+
+## 🛠️ Technologies Used
+
+**Frontend:**
+
+* HTML5
+* CSS3
+* JavaScript
+
+**Backend:**
+
+* PHP (WAMP Server)
+
+**Database:**
+
+* MySQL Server 8.4
+
+**Tools:**
+
+* Visual Studio Code
+
+---
+
 
 ## 🗃️ Database Setup
 
